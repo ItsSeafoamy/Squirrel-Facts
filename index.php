@@ -34,9 +34,11 @@ $seed = rand(0, 1000000);
 		<button onclick="return next();">New Fact!</button>
 		<br/><br/>
 		<a id="share" class="share" href="javascript:void(0);" onclick="alert('https://squirrelfacts.com?fact=<?=$factid?>');">Share this fact</a>
+		<a class="share" href="mailto:squirrelfacts@siblaze.com" target="_blank">Submit facts</a>
+		<a class="share" href="https://axolotlfacts.com">Also get some Axolotl Facts!</a>
 	</div>
 	
-	<div class="footer"><a href="https://axolotlfacts.com">Also get some Axolotl Facts!</a> - <a href="mailto:squirrelfacts@siblaze.com" target="_blank">Submit facts</a></div>
+	<div class="footer"><a href="https://laxynd.me">Brought to you by Laxynd <3</a></div>
 	
 	<script type="text/javascript">
 	<?php if ($factid != 420) :?>

@@ -138,7 +138,15 @@ $facts = array(
 	'There were no squirrels aboard Noah\'s ark. They still survived.',
 	'Some people believe Jesus was actually a squirrel',
 	'A squirrel has an estimated 93 billion neurons in its brain. For comparison, humans have around 86 billion neurons',
-	'A squirrel is most productive at 5:28am'
+	'A squirrel is most productive at 5:28am',
+	'According to Air Traffic Control, the number one reason for fallen aircraft, is crashing into flying squirrels',
+	'Like most vertebrates, squirrels have evolved over millions of years from fish. Only their bushy tails remain unchanged', //Paul (user-submission)
+	'Squirrels don\'t like water. It reminds them of space', //Paul (user-submission)
+	'Squirrels don\'t like sandwiches', //u/einstein2001 https://www.reddit.com/r/funny/comments/4sbbhp/walked_by_this_going_to_lunch_in_manhattan/d58djql/?context=8&depth=9
+	'The tallest adult squirrel in recorded history was seven inches tall, excluding tail. The shortest adult squirrel was also seven inches tall', //David (user-submission)
+	'According to the New Scientist, physicists at CERN accelerated a squirrel to almost half the speed of light, then collided it with a beam of hydrogen protons. Images from the detector show that before it vaporized, the squirrel shat itself', //Alex (user-submission)
+	'There is only one mention of a squirrel in the Bible. In Leviticus, the Hapharite king, Bathalva, gifts a rare white Samoan squirrel to his favourite courtesan, Kiman. The animal is kept hidden in the palace cellar to avoid reprisals from the queen, and is commonly thought to be the inspiration behind the Hanna-Barbera cartoon \'Secret Squirrel\'', //Alex (user-submission)
+	'The square root of a squirrel is a hamster' //Alex (user-submission)
 );
 
 $randid = array_rand($facts);
